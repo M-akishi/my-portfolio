@@ -12,10 +12,10 @@
 
   <br /><br />&nbsp;&nbsp;<span class="comment"># Perfil Profesional</span>
   <br />&nbsp;&nbsp;<span class="builtin">profile</span> = <span class="string">"""
-  Especialista en bases de datos y desarrollo backend con experiencia en
-  administración de redes y soporte informático. Capacidad para trabajar en
-  equipo o de manera independiente, con enfoque en optimización de procesos
-  y soluciones tecnológicas eficientes.
+  Analista Programador titulado, orientado al desarrollo backend y administración de bases de datos,
+  con experiencia en soporte informático, redes y automatización de procesos.
+  Capaz de diseñar soluciones eficientes, mantener sistemas productivos y adaptarse rápidamente a nuevas tecnologías.
+  Interés en posiciones backend junior, bases de datos y sistemas.
   """</span>
   <br />&nbsp;&nbsp;<span class="builtin">print</span>(profile)
 

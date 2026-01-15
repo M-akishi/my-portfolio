@@ -6,12 +6,14 @@
     <br />&nbsp;&nbsp;<span class="string">'Constructora Campos y Pérez Ltda.'</span>,
     <br />&nbsp;&nbsp;<span class="string">'Soporte de Base de Datos y Redes'</span>,
     <br />&nbsp;&nbsp;<span class="string">'06/2019'</span>,
-    <br />&nbsp;&nbsp;<span class="string">'12/2024'</span>,
+    <br />&nbsp;&nbsp;<span class="string">'12/2025'</span>,
     <br />&nbsp;&nbsp;<span class="json">JSON_ARRAY</span>(
-    <br />&nbsp;&nbsp;&nbsp;&nbsp;<span class="string">'Administración y mantenimiento de bases de datos.'</span>,
-    <br />&nbsp;&nbsp;&nbsp;&nbsp;<span class="string">'Desarrollo de herramientas para teletrabajo.'</span>,
-    <br />&nbsp;&nbsp;&nbsp;&nbsp;<span class="string">'Soporte a la red interna de la oficina.'</span>,
-    <br />&nbsp;&nbsp;&nbsp;&nbsp;<span class="string">'Reparación y mantenimiento de equipos informáticos.'</span>
+    <br />&nbsp;&nbsp;&nbsp;&nbsp;<span class="string">'Administración, respaldo y mantenimiento de bases de datos internas.'</span>,
+    <br />&nbsp;&nbsp;&nbsp;&nbsp;<span class="string">'Desarrollo de herramientas internas para optimización de procesos y teletrabajo.'</span>,
+    <br />&nbsp;&nbsp;&nbsp;&nbsp;<span class="string">'Gestión y soporte de la red interna (LAN, conectividad y servicios).'</span>,
+    <br />&nbsp;&nbsp;&nbsp;&nbsp;<span class="string">'Soporte técnico a usuarios finales.'</span>
+    <br />&nbsp;&nbsp;&nbsp;&nbsp;<span class="string">'Mantención preventiva y correctiva de equipos informáticos.'</span>
+    <br />&nbsp;&nbsp;&nbsp;&nbsp;<span class="string">'Diagnóstico y resolución de incidencias de software y hardware.'</span>
     <br />&nbsp;&nbsp;<span>)</span>
     <br />);
   </pre>

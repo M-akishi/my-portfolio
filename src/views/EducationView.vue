@@ -4,9 +4,9 @@
   <div class="education">
     <ul>
       <li>
-        Analista Programador (Cursando – Egreso esperado 2025)
+        Analista Programador (Titulado 2025 – Certificado digital disponible)
         <ul>
-          <li>CFT Inacap | Mar 2023 – Presente</li>
+          <li>CFT Inacap | Mar 2023 – Dic 2025</li>
         </ul>
       </li>
       <li>
