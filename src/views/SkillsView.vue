@@ -1,16 +1,21 @@
 <template>
   <pre class="conf-block">
 <span class="section">[habilidades]</span>
-<span class="key">bases_de_datos</span> = <span class="value">Administración y optimización (SQL, MySQL, PostgreSQL)</span>
-<span class="key">backend</span> = <span class="value">Desarrollo backend (Java, PHP)</span>
-<span class="key">redes</span> = <span class="value">Gestión y administración de redes</span>
-<span class="key">soporte</span> = <span class="value">Soporte técnico y mantenimiento de hardware/software</span>
-<span class="key">teletrabajo</span> = <span class="value">Desarrollo de herramientas de teletrabajo</span>
-<span class="key">seguridad</span> = <span class="value">Seguridad informática y administración de sistemas</span>
+<span class="key">backend</span> = <span class="value">C#, .NET, APIs REST</span>
+<span class="key">bases_de_datos</span> = <span class="value">SQL Server, MySQL, diseño y optimización</span>
+<span class="key">automatizacion</span> = <span class="value">Python, web scraping y automatización de procesos</span>
+<span class="key">contenedores</span> = <span class="value">Docker y despliegue de servicios</span>
+<span class="key">infraestructura</span> = <span class="value">Administración de servidores Linux y servicios de red</span>
+<span class="key">redes</span> = <span class="value">Redes, VPN y acceso remoto seguro</span>
+<span class="key">sistemas</span> = <span class="value">Administración y soporte de sistemas Windows y Linux</span>
+
+<span class="section">[tecnologias]</span>
+<span class="key">frameworks</span> = <span class="value">Vue.js, FastAPI</span>
+<span class="key">herramientas</span> = <span class="value">Git, Docker, Visual Studio, Selenium, Playwright</span>
 
 <span class="section">[idiomas]</span>
 <span class="key">Español</span> = <span class="value">Nativo</span>
-<span class="key">Inglés</span> = <span class="value">Altamente competente</span>
+<span class="key">Inglés</span> = <span class="value">Competencia profesional</span>
   </pre>
 </template>
 
